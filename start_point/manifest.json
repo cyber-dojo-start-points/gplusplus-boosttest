@@ -1,15 +1,19 @@
 {
-  "image_name": "cyberdojofoundation/gpp_boosttest",
+  "image_name": "cyberdojofoundation/gpp_boosttest:bb06876",
   "display_name": "C++ (g++), Boost.Test",
-  "visible_filenames":
-  [
+  "visible_filenames": [
     "hiker.tests.cpp",
     "hiker.cpp",
     "hiker.hpp",
     "makefile",
     "cyber-dojo.sh"
   ],
-  "filename_extension": [ ".cpp", ".hpp", ".c", ".h" ],
+  "filename_extension": [
+    ".cpp",
+    ".hpp",
+    ".c",
+    ".h"
+  ],
   "max_seconds": 10,
   "tab_size": 4
 }
