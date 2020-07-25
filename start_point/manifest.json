@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/gpp_boosttest:bfcf12f",
+  "image_name": "cyberdojofoundation/gpp_boosttest:f38a458",
   "display_name": "C++ (g++), Boost.Test",
   "visible_filenames": [
     "hiker.tests.cpp",
