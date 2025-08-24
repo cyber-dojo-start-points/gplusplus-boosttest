@@ -20,4 +20,4 @@ trap cyber_dojo_exit EXIT SIGTERM
 # --------------------------------------------------------------
 
 make
-gcovr --root . > report/coverage.txt
+gcovr --gcov-ignore-parse-errors --root . > report/coverage.txt
