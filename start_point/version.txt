@@ -5,4 +5,4 @@ The run the following:
 docker run --rm -it "$(jq -r .image_name manifest.json)" \
   bash -c "dpkg -s libboost-dev | grep 'Version'"
 
-$ Version: 1.74.0.3
+$ Version: 1.83.0.2
