@@ -1,6 +1,6 @@
 {
   "image_name": "ghcr.io/cyber-dojo-languages/gpp_boosttest:f12150a",
-  "display_name": "C++ (g++ 15.3.0), Boost.Test 1.83.0.2",
+  "display_name": "C++ (g++ 15.2.0), Boost.Test 1.83.0.2",
   "visible_filenames": [
     "hiker.tests.cpp",
     "hiker.cpp",
