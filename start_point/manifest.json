@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/gpp_boosttest:a21ab9f",
+  "image_name": "ghcr.io/cyber-dojo-languages/gpp_boosttest:0dd89ae",
   "display_name": "C++ (g++ 15.2.0), Boost.Test 1.83.0.2",
   "language": [
     "C++ (g++)",
