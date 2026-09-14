@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "hiker\\.tests\\.cpp\\([0-9]+\\): .*critical check 42 == answer\\(\\) has failed \\[42 != 0\\]",
+    "hiker\\.tests\\.cpp\\([0-9]+\\): .*critical check answer\\(\\) > 0 has failed \\[0 <= 0\\]"
+  ],
+  "match_counts": {
+    "^Running 3 test cases\\.\\.\\.$": 1,
+    "has failed": 3,
+    "\\*\\*\\* 3 failures are detected in the test module \"HikerTest\"$": 1
+  },
+  "truncated": false
+}

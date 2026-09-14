@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 10,
+  "match_counts": {
+    "^Running 2 test cases\\.\\.\\.$": 1,
+    "\\*\\*\\* No errors detected$": 1,
+    "has failed": 0
+  },
+  "truncated": false
+}

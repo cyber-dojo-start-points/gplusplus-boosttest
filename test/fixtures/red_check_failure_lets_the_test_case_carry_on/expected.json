@@ -1,0 +1,13 @@
+{
+  "matches": [
+    "hiker\\.tests\\.cpp\\([0-9]+\\): .*error: in \"life_the_universe_and_everything\": check 42 == answer\\(\\) has failed \\[42 != 54\\]",
+    "hiker\\.tests\\.cpp\\([0-9]+\\): .*error: in \"life_the_universe_and_everything\": check answer\\(\\) < 0 has failed \\[54 >= 0\\]"
+  ],
+  "match_counts": {
+    "^Running 1 test case\\.\\.\\.$": 1,
+    "has failed": 2,
+    "critical check": 0,
+    "\\*\\*\\* 2 failures are detected in the test module \"HikerTest\"$": 1
+  },
+  "truncated": false
+}

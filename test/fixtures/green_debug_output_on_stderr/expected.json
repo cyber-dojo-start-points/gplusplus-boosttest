@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 12,
+  "match_counts": {
+    "^answer was called$": 1,
+    "^Running 1 test case\\.\\.\\.$": 1,
+    "\\*\\*\\* No errors detected$": 1,
+    "has failed": 0
+  },
+  "truncated": false
+}

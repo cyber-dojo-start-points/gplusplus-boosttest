@@ -1,0 +1,11 @@
+{
+  "matches": [
+    "hiker\\.tests\\.cpp\\([0-9]+\\): .*critical check 42 == answer\\(\\) has failed \\[42 != 54\\]",
+    "unknown location\\(0\\): .*fatal error: in \"the_answer_is_two_digits_long\": std::runtime_error: not worked out yet"
+  ],
+  "match_counts": {
+    "^Running 2 test cases\\.\\.\\.$": 1,
+    "\\*\\*\\* 2 failures are detected in the test module \"HikerTest\"$": 1
+  },
+  "truncated": false
+}

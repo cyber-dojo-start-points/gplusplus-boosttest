@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "^hiker\\.cpp:[0-9]+:[0-9]+: error: 'retrun' was not declared in this scope$"
+  ],
+  "match_counts": {
+    "make: \\*\\*\\* \\[makefile:[0-9]+: test\\] Error 1$": 1,
+    "^Running ": 0,
+    "\\*\\*\\* No errors detected": 0,
+    "failures? (is|are) detected": 0
+  },
+  "truncated": false
+}

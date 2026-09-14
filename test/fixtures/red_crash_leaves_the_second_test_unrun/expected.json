@@ -1,0 +1,12 @@
+{
+  "matches": [
+    "unknown location\\(0\\): .*fatal error: in \"life_the_universe_and_everything\": memory access violation"
+  ],
+  "match_counts": {
+    "^Running 2 test cases\\.\\.\\.$": 1,
+    "^entering the first test case$": 1,
+    "^entering the second test case$": 0,
+    "\\*\\*\\* 1 failure is detected in the test module \"HikerTest\"$": 1
+  },
+  "truncated": false
+}
